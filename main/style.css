@@ -3,3 +3,12 @@
     border-radius: 10px;
     padding: 1.5em;
 }
+
+.icon-style {
+    margin: 0.5em;
+    color: rgb(49, 49, 49);
+}
+
+a {
+    text-decoration: none !important;
+}
