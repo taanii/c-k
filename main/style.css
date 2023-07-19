@@ -1,8 +1,10 @@
 .backgd {
-    background-color: rgba(10, 87, 202, 0.055);
+    background-color: #00aacc13;
     border-radius: 10px;
     padding: 1.5em;
 }
+
+
 
 .icon-style {
     margin: 0.5em;
